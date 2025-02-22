@@ -1,0 +1,45 @@
+﻿Resumen: En el video se  explica la manera mas básica de como funcionan Git y Github y como trabjarbos, así como los comandos básicos para usar. 
+
+¿Que es Git?
+Es un sistema de control de versiones que admistra las distintas versiones de distintos programas que a medida que el tiempo avanza se va volviendo cada vez más complejo por todas las modificaciones que reciben.
+
+ ¿Cuáles son los comandos más importantes y para qué sirven?
+Git init: Sirve para decirle a git que empezaremos a implementar git en nuestro proyecto. 
+Git add: Es para transferir los archivos del directorio de trabajo al área de preparación.
+Git status: Es para que me indique en que estado esta mi archivo.
+Git commit: Es para guardar la versión del código trabajado antes de enviarlo a un repositorio.
+Git push: Es para subirlo a un repositorio.
+Git pull: Se usa en caso de estar trabajando con un grupo de personas y sirve para ver los cambios que los demás le han hecho al código.
+Git clone: crea una copia en el servidor local para trabajar. 
+
+¿Cuál es la diferencia entre Git y Github?
+Github es una plataforma en la cual se suben y almacenan códigos de nuestros proyectos realizados, también podemos acceder a distintos códigos de otros desarrolladores al igual que ellos puedan acceder a nuestros proyectos siempre que se encuentren públicos. Mientras que Git sirve para navegar dentro de un proyecto haciendo más fácil la manipulación de códigos.
+
+Enumere los comandos para subir cambios a un repositorio.
+- Git add
+- Git commit
+- Git push
+
+ 
+
+
+
+
+
+¿Qué es una branch?
+Es una rama adicional en la cual podemos trabajar libremente en lo que sería una versión alternativa de nuestro proyecto.
+
+ ¿Cuál es la diferencia entre un repositorio local y un repositorio remoto?
+Un repositorio local es uno donde se trabaja de manera individual y un repositorio remoto en el que se tienen más colaboradores trabajando.
+
+Cuales son los comandos básicos para:
+     - Inicializar un repositorio: git init
+     - Descargar un repositorio: git clone + link del repsoitorio
+     - Agregar archivos a un repositorio local: git add
+     - Confirmar cambios en un repositorio local: git commit
+     - Subir cambios a un repositorio remoto: git push
+     - Revertir cambios en una Branch: git revert
+
+
+
+
